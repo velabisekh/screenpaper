@@ -86,7 +86,7 @@ const ImageSearch = () => {
 
     return (
         <div className='image-search-engine'>
-            <div className='header'>Image <span>Search Engine</span></div>
+            <div className='header'>Screen<span>Papers</span></div>
             <div className='search-bar'>
                 <input
                     type='text'
